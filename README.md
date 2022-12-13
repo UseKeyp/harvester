@@ -1,5 +1,5 @@
 <h1 align="center"><img width="600" style="border-radius: 30px;" src="https://raw.githubusercontent.com/UseKeyp/.github/main/Keyp-Logo-Color.svg"/></h1>
-<h1 align="center">Welcome to Keyp Public API 👋</h1>
+<h1 align="center">Welcome to Tax Loss Harvester 👋</h1>
 <p align="center">
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
@@ -20,9 +20,9 @@ Example contract used for tax loss harvesting for NFTs
 
 ## Contributors ✨
 
-👤 **Keyp Team <maintainers@usekeyp.com>**
+👤 **Keyp Team <maintainers@UseKeyp.com>**
 
-- Website: https://usekeyp.com
+- Website: https://UseKeyp.com
 - Twitter: [@UseKeyp](https://twitter.com/UseKeyp)
 - GitHub: [@UseKeyp](https://github.com/UseKeyp)
 
